@@ -1,0 +1,358 @@
+
+
+
+{
+	"speakers" : [{
+		"title" : "Laser-wielding physicists seize control of atoms' behavior" ,
+		"when" : "October 06, 2015",
+		"writer" : "Steve Koppes" ,
+		"bywho" : "UChicago" ,
+		"artwork" : ["images/news/green_ninja_lasers_flickr.png"] ,
+		"artattr" : "Flickr" ,
+		"url" : "http://news.uchicago.edu/article/2015/10/06/laser-wielding-physicists-seize-control-atoms-behavior",
+		"sourceurl" : "http://www.uchicago.edu/" ,
+		"sourcetitle" : "UChicago" ,
+		"tag" : "physics"
+	},{
+		"title" : "Philippines takes step towards comprehensive policy for Open Educational Resources" ,
+		"when" : "October 06, 2015",
+		"writer" : "" ,
+		"bywho" : "UNESCO" ,
+		"artwork" : ["images/news/Philippines_Population_Density_Map_wikimedia.png"] ,
+		"artattr" : "Wikimedia" ,
+		"url" : "http://www.unesco.org/new/en/media-services/single-view/news/philippines_takes_step_towards_a_comprehensive_policy_for_open_educational_resources/#.VhR_W_lViko",
+		"sourceurl" : "http://en.unesco.org/" ,
+		"sourcetitle" : "UNESCO" ,
+		"tag" : "social"
+	},{
+		"title" : "New pension system changing China's traditional family structure" ,
+		"when" : "October 02, 2015",
+		"writer" : "Denise L. Meyer" ,
+		"bywho" : "Yale" ,
+		"artwork" : ["images/news/China_administrative_claimed_included_wikipedia.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://publichealth.yale.edu/news/article.aspx?id=11240",
+		"sourceurl" : "http://www.yale.edu/" ,
+		"sourcetitle" : "Yale" ,
+		"tag" : "social"
+	},{
+		"title" : "High-fructose diet hampers recovery from traumatic brain injury" ,
+		"when" : "October 02, 2015",
+		"writer" : "Elaine Schmidt" ,
+		"bywho" : "UCLA" ,
+		"artwork" : ["images/news/HardCandy_wikipedia.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://newsroom.ucla.edu/releases/high-fructose-diet-hampers-recovery-from-traumatic-brain-injury",
+		"sourceurl" : "http://www.ucla.edu/" ,
+		"sourcetitle" : "UCLA" ,
+		"tag" : "life"
+	},{
+		"title" : "New laser could spot signs of cancer in exhaled breath" ,
+		"when" : "September 30, 2015",
+		"writer" : "Edwin Cartlidge" ,
+		"bywho" : "PhysicsWorld" ,
+		"artwork" : ["images/news/panda_laser_vision_flickr.png"] ,
+		"artattr" : "Flickr" ,
+		"url" : "http://physicsworld.com/cws/article/news/2015/sep/30/new-laser-could-spot-signs-of-cancer-in-exhaled-breath",
+		"sourceurl" : "http://physicsworld.com/" ,
+		"sourcetitle" : "Physicsworld.com" ,
+		"tag" : "physics"
+	},{
+		"title" : "New tests detect all viruses that infect people, animals" ,
+		"when" : "September 29, 2015",
+		"writer" : "" ,
+		"bywho" : "Washington University in St. Louis" ,
+		"artwork" : ["images/news/blood_cells_pixabay.png"] ,
+		"artattr" : "wikicommon" ,
+		"url" : "http://news.wustl.edu/news/Pages/28833.aspx",
+		"sourceurl" : "http://www.wustl.edu/" ,
+		"sourcetitle" : "Washington University in St. Louis" ,
+		"tag" : "life"
+	},{
+		"title" : "Priests found spiritual satisfaction by serving nuns, Stanford medieval historian says" ,
+		"when" : "September 29, 2015",
+		"writer" : "Kathryn Dickason" ,
+		"bywho" : "Stanford" ,
+		"artwork" : ["images/news/praying_nun_wikicommon.png"] ,
+		"artattr" : "wikicommon" ,
+		"url" : "http://news.stanford.edu/news/2015/september/nuns-priests-tale-092915.html",
+		"sourceurl" : "http://www.stanford.edu/" ,
+		"sourcetitle" : "Stanford" ,
+		"tag" : "history"
+	},{
+		"title" : "A new treatment for Macular Degeneration" ,
+		"when" : "September 28, 2015",
+		"writer" : "Julie Cohen" ,
+		"bywho" : "UCSB Current" ,
+		"artwork" : ["images/news/beautiful_eye_flickr.png"] ,
+		"artattr" : "Dennis Clegg, Center for Stem Cell Biology and Engineering" ,
+		"url" : "http://www.news.ucsb.edu/2015/015943/new-macular-degeneration-treatment",
+		"sourceurl" : "http://www.news.ucsb.edu/" ,
+		"sourcetitle" : "UCSB Current" ,
+		"tag" : "life"
+	},{
+		"title" : "Ancient dirt churners took their time stirring up the ocean floor" ,
+		"when" : "September 28, 2015",
+		"writer" : "Jim Shelton" ,
+		"bywho" : "Yale University" ,
+		"artwork" : ["images/news/Iss007e10807_pacific_wikipedia.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://news.yale.edu/2015/09/28/ancient-dirt-churners-took-their-time-stirring-ocean-floor",
+		"sourceurl" : "http://www.yale.edu/" ,
+		"sourcetitle" : "Yale University" ,
+		"tag" : "history"
+	},{
+		"title" : "NASA confirms liquid water on Mars" ,
+		"when" : "September 28, 2015",
+		"writer" : "Gina Anderson" ,
+		"bywho" : "NASA" ,
+		"artwork" : ["images/news/mars_water.png"] ,
+		"artattr" : "NASA/JPL/University of Arizona" ,
+		"url" : "https://www.nasa.gov/press-release/nasa-confirms-evidence-that-liquid-water-flows-on-today-s-mars",
+		"sourceurl" : "https://www.nasa.gov/" ,
+		"sourcetitle" : "NASA" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Stem cell research hints at evolutoin of human brain" ,
+		"when" : "September 24, 2015",
+		"writer" : "Nicholas Weiler" ,
+		"bywho" : "UCSF" ,
+		"artwork" : ["images/news/brain.png"] ,
+		"artattr" : "Pixabay" ,
+		"url" : "https://www.ucsf.edu/news/2015/09/131646/stem-cell-research-hints-evolution-human-brain",
+		"sourceurl" : "https://www.ucsf.edu/" ,
+		"sourcetitle" : "UCSF" ,
+		"tag" : "life"
+	},{
+		"title" : "3D printing method can regenerate complex peripheral nerve injuries" ,
+		"when" : "September 24, 2015",
+		"writer" : "Steven D. Mackay" ,
+		"bywho" : "Virginia Tech" ,
+		"artwork" : ["images/news/organic_network_wikipedia.png"] ,
+		"artattr" : "Flickr" ,
+		"url" : "https://www.vtnews.vt.edu/articles/2015/09/092415-engineering-3dprintednerves.html",
+		"sourceurl" : "http://www.vt.edu/" ,
+		"sourcetitle" : "Virginia Tech" ,
+		"tag" : "tech"
+	},{
+		"title" : "UCI brain-computer interface enables paralyzed man to walk" ,
+		"when" : "September 24, 2015",
+		"writer" : "Tom Vasich" ,
+		"bywho" : "UC Irvine" ,
+		"artwork" : ["images/news/CyborG_dc_wikimedia.png"] ,
+		"artattr" : "Wikimedia" ,
+		"url" : "http://news.uci.edu/health/uci-brain-computer-interface-enables-paralyzed-man-to-walk/",
+		"sourceurl" : "http://uci.edu/" ,
+		"sourcetitle" : "UC Irvine" ,
+		"tag" : "tech"
+	},{
+		"title" : "NASA study shows oceanic phytoplankton declines in northern hemisphere" ,
+		"when" : "September 23, 2015",
+		"writer" : "Ellen Gray, Editor: Ashley Morrow" ,
+		"bywho" : "NASA" ,
+		"artwork" : ["images/news/barentsamo.png"] ,
+		"artattr" : "NASA's Earth Observatory" ,
+		"url" : "https://www.nasa.gov/feature/goddard/nasa-study-shows-oceanic-phytoplankton-declines-in-northern-hemisphere",
+		"sourceurl" : "https://www.nasa.gov/" ,
+		"sourcetitle" : "NASA" ,
+		"tag" : "planetary"
+	},{
+		"title" : "Neuroscientists identify a brain circuit that is critical for forming episodic memories" ,
+		"when" : "September 23, 2015",
+		"writer" : "Anne Trafton" ,
+		"bywho" : "MIT" ,
+		"artwork" : ["images/news/internet_map_wikipedia.png"] ,
+		"artattr" : "wikipedia" ,
+		"url" : "http://news.mit.edu/2015/brain-circuit-encodes-episodic-memories-0923",
+		"sourceurl" : "https://www.mit.edu/" ,
+		"sourcetitle" : "MIT" ,
+		"tag" : "life"
+	},{
+		"title" : "Most Americans will be misdiagnosed at least once" ,
+		"when" : "September 22, 2015",
+		"writer" : "Diane Fine Maron" ,
+		"bywho" : "Scientific American" ,
+		"artwork" : ["images/news/emergency_entrance.png"] ,
+		"artattr" : "flickr" ,
+		"url" : "http://www.scientificamerican.com/article/most-americans-will-be-misdiagnosed-at-least-once/",
+		"sourceurl" : "http://www.scientificamerican.com/" ,
+		"sourcetitle" : "Scientific American" ,
+		"tag" : "social"
+	},{
+		"title" : "The rise of X-ray Beam Chemistry" ,
+		"when" : "September 18, 2015",
+		"writer" : "Justin H.S. Breaux" ,
+		"bywho" : "Argonne National Laboratory" ,
+		"artwork" : ["images/news/xray_beam.png"] ,
+		"artattr" : "Argonne/Oakridge Labs" ,
+		"url" : "http://www.anl.gov/articles/rise-x-ray-beam-chemistry",
+		"sourceurl" : "http://www.anl.gov/" ,
+		"sourcetitle" : "Argonne National Laboratory" ,
+		"tag" : "chemistry"
+	},{
+		"title" : "Predicting pesticides in streams and rivers: Where is water quality at risk?" ,
+		"when" : "September 16, 2015",
+		"writer" : "" ,
+		"bywho" : "USGS" ,
+		"artwork" : ["images/news/pesticide_graphic_tn.png"] ,
+		"artattr" : "USGS" ,
+		"url" : "http://www.usgs.gov/newsroom/article.asp?ID=4332#.VgojfPlViko",
+		"sourceurl" : "http://www.usgs.gov/" ,
+		"sourcetitle" : "USGS" ,
+		"tag" : "planetary"
+	},{
+		"title" : "What's behind million-dollar crop failures in oil-palm?" ,
+		"when" : "September 09, 2015",
+		"writer" : "Peter Tarr" ,
+		"bywho" : "Cold Spring Harbor Laboratory" ,
+		"artwork" : ["images/news/Oil_palm_plantation.png"] ,
+		"artattr" : "wikipedia" ,
+		"url" : "http://www.cshl.edu/news-and-features/what-s-behind-million-dollar-crop-failures-in-oil-palm-would-you-believe-bad-karma.html",
+		"sourceurl" : "http://www.cshl.edu/" ,
+		"sourcetitle" : "Cold Spring Harbor Laboratory" ,
+		"tag" : "planetary"
+	},{
+		"title" : "24-Hour OBs, Midwives lead to less c-sections" ,
+		"when" : "September 8, 2015",
+		"writer" : "Suazanne Leigh" ,
+		"bywho" : "UCSF" ,
+		"artwork" : ["images/news/baby-laughing.png"] ,
+		"artattr" : "imgarcade" ,
+		"url" : "https://www.ucsf.edu/news/2015/09/131531/24-hour-obs-midwives-lead-less-c-sections",
+		"sourceurl" : "https://www.ucsf.edu/" ,
+		"sourcetitle" : "UCSF" ,
+		"tag" : "life"
+	},{
+		"title" : "NASA's TES Satellite Instrument gives new insight into water cycle" ,
+		"when" : "September 3, 2015",
+		"writer" : "" ,
+		"bywho" : "Jet Propulsion Laboratory" ,
+		"artwork" : ["images/news/watercycle.png"] ,
+		"artattr" : "National Severe Storms Laboratory" ,
+		"url" : "http://www.jpl.nasa.gov/news/news.php?feature=4711",
+		"sourceurl" : "http://www.jpl.nasa.gov/" ,
+		"sourcetitle" : "Jet Propulsion Laboratory | Caltech | NASA" ,
+		"tag" : "environment"
+	},{
+		"title" : "Parents' views on justice affect babies' moral development" ,
+		"when" : "August 31, 2015",
+		"writer" : "Susie Allen" ,
+		"bywho" : "University of Chicago" ,
+		"artwork" : ["images/news/emotionally_charged_nina_matthews_photography.png"] ,
+		"artattr" : "Nina Matthews Photography" ,
+		"url" : "http://news.uchicago.edu/article/2015/08/31/parents-views-justice-affect-babies-moral-development",
+		"sourceurl" : "http://www.uchicago.edu/" ,
+		"sourcetitle" : "University of Chicago" ,
+		"tag" : "social"
+	},{
+		"title" : "Gaming computers offer untapped energy savings potential" ,
+		"when" : "August 31, 2015",
+		"writer" : "Julie Chao" ,
+		"bywho" : "Berkeley Lab" ,
+		"artwork" : ["images/news/Quad-GeForce-GTX-Titan-Black-Ultimate-GPU-Gaming-Computer_wikipedia.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://newscenter.lbl.gov/2015/08/31/gaming-computers-offer-huge-untapped-energy-savings-potential/",
+		"sourceurl" : "http://www.lbl.gov/" ,
+		"sourcetitle" : "Berkeley Lab" ,
+		"tag" : "tech"
+	},{
+		"title" : "Construction approved for world's most powerful digital camera" ,
+		"when" : "August 31, 2015",
+		"writer" : "" ,
+		"bywho" : "Symmetry Magazine" ,
+		"artwork" : ["images/news/LSST_exploded-s_slac_national_accelerator_laboratory.jpg"] ,
+		"artattr" : "SLAC/Fermilab" ,
+		"url" : "http://www.symmetrymagazine.org/article/august-2015/construction-approved-for-worlds-most-powerful-digital-camera",
+		"sourceurl" : "http://www.symmetrymagazine.org/" ,
+		"sourcetitle" : "Symmetry Magazine | A joint Fermilab / SLAC publication" ,
+		"tag" : "tech"
+	},{
+		"title" : "Mutant fossils reveal toxic metals may have contributed to world's largest extinction" ,
+		"when" : "August 31, 2015",
+		"writer" : "" ,
+		"bywho" : "USGS" ,
+		"artwork" : ["images/news/mutant_fossil.png"] ,
+		"artattr" : "USGS" ,
+		"url" : "http://www.usgs.gov/newsroom/article.asp?ID=4311#.VgomLPlViko",
+		"sourceurl" : "http://www.usgs.gov/" ,
+		"sourcetitle" : "USGS" ,
+		"tag" : "History"
+	},{
+		"title" : "Hydrogen fuel cell for renewable power to Honolulu port" ,
+		"when" : "August 28, 2015",
+		"writer" : "Patti Koning" ,
+		"bywho" : "Sandia Labs" ,
+		"artwork" : ["images/news/honolulu_waterenergy_sandia.png"] ,
+		"artattr" : "David Murphy" ,
+		"url" : "https://share.sandia.gov/news/resources/news_releases/honolulu_hydrogen/#.VfOeLhFVikp",
+		"sourceurl" : "http://www.sandia.gov/index.html" ,
+		"sourcetitle" : "Sandia Labs" ,
+		"tag" : "environment"
+	},{
+		"title" : "Cholinergic neurons send brain-wide broadcasts enabling us to learn from the unexpected" ,
+		"when" : "August 27, 2015",
+		"writer" : "Sandeep Ravindran" ,
+		"bywho" : "Cold Spring Harbor Laboratory" ,
+		"artwork" : ["images/news/cholinergic_neurons.png"] ,
+		"artattr" : "Julia Kuhl, CSHL" ,
+		"url" : "http://www.cshl.edu/news-and-features/surprised-cholinergic-neurons-send-brain-wide-broadcasts-enabling-us-to-learn-from-the-unexpected.html",
+		"sourceurl" : "http://www.cshl.edu/" ,
+		"sourcetitle" : "Cold Spring Harbor Laboratory" ,
+		"tag" : "life"
+	},{
+		"title" : "Research may solve lunar fire fountain mystery" ,
+		"when" : "August 24, 2015",
+		"writer" : "" ,
+		"bywho" : "Brown University" ,
+		"artwork" : ["images/news/moonsurface_wikimedia.jpg"] ,
+		"artattr" : "Wikimedia" ,
+		"url" : "https://news.brown.edu/articles/2015/08/lunar",
+		"sourceurl" : "http://www.brown.edu/" ,
+		"sourcetitle" : "Brown University" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Dark Energy Survey finds more celestial neighbors" ,
+		"when" : "August 17, 2015",
+		"writer" : "" ,
+		"bywho" : "Symmetry Magazine" ,
+		"artwork" : ["images/news/deepfield_gravlens_wikipedia.jpg"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://www.symmetrymagazine.org/article/august-2015/dark-energy-survey-finds-more-celestial-neighbors",
+		"sourceurl" : "http://www.symmetrymagazine.org/" ,
+		"sourcetitle" : "Symmetry Magazine | A joint Fermilab / SLAC publication" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Molecular scientists unexpectedly produce new type of glass" ,
+		"when" : "August 13, 2015",
+		"writer" : "Carla Reiter" ,
+		"bywho" : "University of Chicago" ,
+		"artwork" : ["images/news/glass_energy_pixabay.png"] ,
+		"artattr" : "Pixabay" ,
+		"url" : "http://news.uchicago.edu/article/2015/08/13/molecular-scientists-unexpectedly-produce-new-type-glass",
+		"sourceurl" : "http://www.uchicago.edu/" ,
+		"sourcetitle" : "University of Chicago" ,
+		"tag" : "tech"
+	},{
+		"title" : "Moral judgements soften with time and distance, UCLA-led study shows" ,
+		"when" : "August 05, 2015",
+		"writer" : "Alison Hewitt" ,
+		"bywho" : "UCLA" ,
+		"artwork" : ["images/news/Mad_scientist_wikipedia.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://newsroom.ucla.edu/releases/moral-judgments-soften-with-time-and-distance-ucla-led-study-shows",
+		"sourceurl" : "http://www.ucla.edu/" ,
+		"sourcetitle" : "UCLA" ,
+		"tag" : "social"
+	},{
+		"title" : "Sugary drinks linked to high death tolls worldwide" ,
+		"when" : "June 29, 2015",
+		"writer" : "" ,
+		"bywho" : "Tufts University" ,
+		"artwork" : ["images/news/glass_of_juice.png"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://now.tufts.edu/news-releases/sugary-drinks-linked-high-death-tolls-worldwide",
+		"sourceurl" : "http://www.tufts.edu/" ,
+		"sourcetitle" : "Tufts University" ,
+		"tag" : "history"
+	}]
+}

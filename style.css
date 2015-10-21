@@ -1,0 +1,213 @@
+
+body {
+  padding: 10px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: steelblue;
+}
+a:visited {
+	color: darkcyan;
+}
+h2, h3, h4, h5, h6 {
+	font-family: 'Coda', cursive;
+}
+footer {
+	background-color: darkgrey;
+}
+.footsize {
+	color: black;
+	font-size: 15px;
+}
+.backbody {
+	background-color: darkgrey;
+}
+.topodahill {
+	font-family:'Ruthie',cursive;
+	text-align:center;
+	font-size: 50px;
+}
+.secondtop {
+	font-family:'Coda',cursive;
+	text-align:center;
+	font-size: 25px;
+}
+.ruth {
+	font-family: 'Ruthie',cursive;
+}
+.cod {
+	font-family: 'Coda',cursive;
+}
+.tro {
+	font-family: 'Trocchi',cursive;
+}
+.larna {
+	font-size: 30px;
+}
+.larhe {
+	font-size: 90px;
+}
+.noco {
+	background-color: none;
+}
+
+.bodypad {
+	padding: 50px 0px 0px 0px;
+}
+.nopad {
+	padding: 0px 0px 0px 0px;
+	padding-top: 0px;
+}
+
+.newsholder {
+
+	border-width: thin;
+	border-radius: 10px;
+	box-shadow: 2px 2px 10px slategrey;
+	background-color: white;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top:0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+.daactual {
+}
+
+.wordcolor {
+	color: black;
+}
+
+.round {
+	border-radius: 10px;
+}
+
+.centered {
+	text-align:center;
+}
+.righty {
+	text-align:right;
+}
+.lefty {
+	text-align:left;
+}
+.leftpad{
+	padding-left:5px;
+}
+.rightpad {
+	padding-right:5px;
+}
+.booster {
+	padding-bottom: 50px;
+}
+.bothpad {
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+}
+.backcolor {
+	background-color:gainsboro;
+}
+.blend {
+	background-color: gainsboro;
+}
+.paycity {
+	opacity: .8;
+}
+@media (max-width: 480px) {
+	.space {
+		font-size: 10px;
+	}
+}
+.nobord {
+	border-style: none;
+	box-shadow: none;
+}
+.smallwords {
+	font-size:10px;
+	text-align:right;
+}
+.mediuwords{
+	font-size:8px;
+	text-align:right;
+}
+.hyrule {
+	color: aliceblue;
+	background-color: aliceblue;
+	border-color: aliceblue;
+}
+.largewords {
+	font-size: 17px;
+}
+.faded {
+	color:darkred;
+	background-color: darkred;
+}
+
+.flecks {
+	display: -webkit-box;
+	flex-pack: justify;
+}
+
+
+
+
+
+
+
+
+.parent {
+  display: flex;
+  height: 300px; /* Or whatever */
+}
+
+.child {
+  width: 100px;  /* Or whatever */
+  height: 100px; /* Or whatever */
+  margin: auto;  /* Magic! */
+}
+
+
+.flex-container {
+  /* We first create a flex layout context */
+  display: flex;
+  
+  /* Then we define the flow direction and if we allow the items to wrap 
+   * Remember this is the same as:
+   * flex-direction: row;
+   * flex-wrap: wrap;
+   */
+  flex-flow: row wrap;
+  
+  /* Then we define how is distributed the remaining space */
+  justify-content: space-around;
+}
+
+
+#main {
+    width: 300px;
+    height: 350px;
+    display: -webkit-flex; /* Safari */
+    -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#main div {
+    width: 50px;
+    height: 50px;
+}
+
+
+.short {
+	height: 150px;
+}
+.squeeze {
+	max-height:350px;
+	max-width:350px;
+}
+
+
+
